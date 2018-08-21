@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"outDir": "./build",
+		"allowJs": true,
+		"target": "es5",
+		"noImplicitReturns": true,
+		// "allowSyntheticDefaultImports": true,
+		"noFallthroughCasesInSwitch": true
+	},
+	"include": [
+		"./src/**/*"
+	]
+}
